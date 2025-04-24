@@ -1,4 +1,3 @@
-# Public Libraries
 # Defining the Problem
 On March 14, 2025, the Trump administration announced plans to defund the Institute of Museum and Library Services as a portion of the overall goal of reducing unnecessary bureaucracy. 
 As an avid library patron, my goal is to examine to what extent current public library systems rely on federal grants. I am hoping to discover what changes in staffing, programs, and collections trends could be expected if grants were cut. 
