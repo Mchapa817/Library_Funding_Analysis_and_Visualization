@@ -1,9 +1,14 @@
 # Defining the Problem
 On March 14, 2025, the Trump administration announced plans to defund the Institute of Museum and Library Services as a portion of the overall goal of reducing unnecessary bureaucracy. 
+
 As an avid library patron, my goal is to examine to what extent current public library systems rely on federal grants. I am hoping to discover what changes in staffing, programs, and collections trends could be expected if grants were cut. 
 
 # Data Collection
-Text.
+Sourcing the data for this project involved looking for publically available finance data. Some key sources such as the Institue of Museum and Library Science post a yearly budget. One challenge with their data is that the last available year posted is 2023. This means that when analyzing trends up to 2025 I am forced to use a regression based on previous years data. 
+
+Another source was the Fort Vancouver Regional Libraries. This is the controlling organization that oversees my local branch. I was able to find the 2025 data from their website but the challenge with them is that the data is presented in PDF format and that will need to be updated to either XLS or CSV.
+
+Once all applicalbe data has been collected, the plan is too update all the documents to a local MySQL server for cleaning purposes.
 
 # Data Cleaning
 Text.
