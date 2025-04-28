@@ -8,7 +8,7 @@ Sourcing the data for this project involved looking for publically available fin
 
 Another source was the Fort Vancouver Regional Libraries. This is the controlling organization that oversees my local branch. I was able to find the 2025 data from their website but the challenge with them is that the data is presented in PDF format and that will need to be updated to either XLS or CSV.
 
-Once all applicalbe data has been collected, the plan is too update all the documents to a local MySQL server for cleaning purposes.
+Once all applicable data has been collected, the plan is to update all the documents to a local MySQL server for cleaning purposes.
 
 # Data Cleaning
 Text.
