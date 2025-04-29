@@ -1,5 +1,7 @@
 # Status
-Currently, my library project is on hold as I dedicate time to revisiting and enhancing my shelter analysis. This decision comes from my commitment to ensuring the shelter project fully reflects my growth and expertise as a data analyst. By focusing on this update, I aim to refine the analysis with advanced techniques and deliver more impactful results. However, I already have the outline for the library project set up and available, should anyone be interested in reviewing the plans. Once the shelter project is complete, I’ll bring the same level of precision and innovation to the library initiative.
+Currently, my library project is on hold as I dedicate time to revisiting and enhancing my shelter analysis. This decision comes from my commitment to ensuring the shelter project fully reflects my growth and expertise as a data analyst. By focusing on this update, I aim to refine the analysis with advanced techniques and deliver more impactful results. 
+
+However, I encourage anyone interested in gaining insight into my approach to new projects to review the outline I’ve set up for the library initiative. It offers a clear view of my planning process, showcasing how I develop and structure ideas before diving into execution. Once the shelter project is complete, I’ll bring the same level of precision and innovation to the library initiative.
 
 # Defining the Problem
 On March 14, 2025, the Trump administration announced plans to defund the Institute of Museum and Library Services (IMLS) as a portion of the overall goal of reducing unnecessary bureaucracy. 
