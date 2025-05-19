@@ -1,7 +1,5 @@
 # Status
-Currently, my library project is on hold as I dedicate time to revisiting and enhancing my [Animal Shelter Analysis and Visualizations](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization). This decision comes from my commitment to ensuring the shelter project fully reflects my growth and expertise as a data analyst. By focusing on this update, I aim to refine the analysis with advanced techniques and deliver more impactful results. 
-
-However, I encourage anyone interested in gaining insight into my approach to new projects to review the outline I’ve set up for the library initiative. It offers a clear view of my planning process, showcasing how I develop and structure ideas before diving into execution. Once the shelter project is complete, I’ll bring the same level of precision and innovation to the library initiative.
+This project is currently within the data collection stages and therefore does not have a final visualization or recommendations. However, I encourage anyone interested in gaining insight into my approach to new projects to review the outline I’ve set up for the library initiative. It offers a clear view of my planning process, showcasing how I develop and structure ideas before diving into execution. 
 
 # Table of Contents
 1. [Defining the Problem](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#defining-the-problem)
